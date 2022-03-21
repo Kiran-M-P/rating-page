@@ -17,11 +17,14 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://your-solution-url.com)
+- [Live Site URL](https://kiran-m-p.github.io/rating-page/)
 
 ### What I learned
 
 - Design to built work flow
 - React Components and react router
 - CSS pseudo states
+- ReactRouter vs HashRouter
+- Deploying SPA with clientside routing in gh-pages 🤯(most difficult part)
+- Thanks to [spa-github-pages](https://github.com/rafgraph/spa-github-pages)
