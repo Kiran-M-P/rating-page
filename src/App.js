@@ -5,10 +5,10 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/rating-page/">
       <Routes>
-        <Route path="/rating-page" element={<Feedback />} />
-        <Route path="/rating-page/submit" element={<Submit />} />
+        <Route path="/" element={<Feedback />} />
+        <Route path="/submit" element={<Submit />} />
       </Routes>
     </BrowserRouter>
   );
