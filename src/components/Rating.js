@@ -1,7 +1,7 @@
 export default function Rating() {
   return (
     <>
-      <form action="/submit" className="form">
+      <form action="/rating-page/submit" className="form">
         <div className="ratings-row">
           <button type="button" value={1} name="rate" className="ratings">
             1

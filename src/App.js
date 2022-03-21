@@ -7,8 +7,8 @@ export default function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Feedback />} />
-        <Route path="/submit" element={<Submit />} />
+        <Route path="/rating-page" element={<Feedback />} />
+        <Route path="/rating-page/submit" element={<Submit />} />
       </Routes>
     </BrowserRouter>
   );
