@@ -25,3 +25,6 @@ Users should be able to:
 - Design to built work flow
 - React Components and react router
 - CSS pseudo states
+- ReactRouter vs HashRouter
+- Deploying SPA with clientside routing in gh-pages 🤯(most difficult part)
+- Thanks to [spa-github-pages](https://github.com/rafgraph/spa-github-pages)
