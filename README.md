@@ -12,7 +12,7 @@ Users should be able to:
 - See the "Thank you" card state after submitting a rating
 
 ### Screenshot
-<img src="./screenshot.jpg" alt="drawing" width="400" />
+<img src="./screenshot.jpg" alt="drawing" width="800" />
 
 
 ### Links
